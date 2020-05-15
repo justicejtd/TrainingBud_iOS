@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>555402143761-hvpfnsdrksp0rqgg1kddc76tqa2gr4r5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.555402143761-hvpfnsdrksp0rqgg1kddc76tqa2gr4r5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC8YFuCvfKzfuj7rr4F2We6iEez6hGmNGM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>555402143761</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.duo.TrainingBud</string>
+	<key>PROJECT_ID</key>
+	<string>training-bud</string>
+	<key>STORAGE_BUCKET</key>
+	<string>training-bud.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:555402143761:ios:2df6e08cc137150d2aa9b0</string>
+	<key>DATABASE_URL</key>
+	<string>https://training-bud.firebaseio.com</string>
+</dict>
+</plist>
